@@ -22,7 +22,8 @@ Note: jQuery is still a great library and has many valid use cases. Don’t migr
 
 * [한국어](./README.ko-KR.md)
 * [正體中文](./README.zh-TW.md)
-* [简体中文](./README.zh-CN.md)
+* [简体中文](./README.md)
+* [English](./README_en.md)
 * [Bahasa Melayu](./README-my.md)
 * [Bahasa Indonesia](./README-id.md)
 * [Português(PT-BR)](./README.pt-BR.md)
